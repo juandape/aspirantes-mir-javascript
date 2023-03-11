@@ -1,3 +1,4 @@
+//funcion calcular color
 function calcularColor(num){
     let color;
   if (num === 1) {
