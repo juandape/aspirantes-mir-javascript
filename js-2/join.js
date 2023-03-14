@@ -8,3 +8,5 @@ function join(array){
 
 console.log(join(["carro", "casa", "beca"]))
 console.log(join(["me", "gusta", "javaScript"]))
+console.log(join(["make", "it", "real"]))
+console.log(join([]))

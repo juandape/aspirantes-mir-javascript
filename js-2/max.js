@@ -3,7 +3,7 @@
 function max(array) {
   let mayor = 0;
   for (let i in array) {
-    if (array[i] > mayor) {
+     if (array[i] > mayor) {
       mayor = array[i];
     }
   }
