@@ -7,7 +7,7 @@ function max(array) {
       mayor = array[i];
     }
   }
-  if (mayor === 0) {
+  if (array.length === 0) {
     return undefined;
   }
   return mayor;

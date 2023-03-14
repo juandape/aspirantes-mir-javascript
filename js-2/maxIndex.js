@@ -9,7 +9,7 @@ function maxIndex(array) {
       index = i;
     }
   }
-  if (mayor === 0) {
+  if (array.length === 0) {
     return -1;
   }
   return index;
